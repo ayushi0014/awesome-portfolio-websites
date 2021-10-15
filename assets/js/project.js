@@ -35,7 +35,7 @@ const projects = [
   },
   {
     title: "Node Shop API",
-    cardImage: "assets/images/project-page/nodeshop",
+    cardImage: "assets/images/project-page/nodeshop.png",
     description: "CRUD API for an E-commerce site",
     Previewlink: "",
     Githublink: "https://github.com/ayushi0014/node-shop",
