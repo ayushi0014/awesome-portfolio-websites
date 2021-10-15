@@ -129,10 +129,9 @@ let footer = $(`
           <div class="form-style-6">
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
-              </div>
-                <form>
-                  <form action="https://formcarry.com/s/PxKP58_pz0i" method="POST" accept-charset="UTF-8" >
-                  <input type="text" name="field1" placeholder="Your Name" required/>
+              </div> 
+                <form action="https://formcarry.com/s/PxKP58_pz0i" method="POST" accept-charset="UTF-8" >                       
+                <input type="text" name="field1" placeholder="Your Name" required/>
                   <input type="email" name="field2" placeholder="Email Address"  required/>
                   <textarea name="field3" placeholder="Type your Message" required></textarea>
                   <input type="submit" value="Send" />
